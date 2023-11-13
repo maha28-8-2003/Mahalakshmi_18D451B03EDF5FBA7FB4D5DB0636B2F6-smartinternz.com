@@ -1,0 +1,7 @@
+{
+    "onRepoLoadShowCheckedOutBranch": false,
+    "onRepoLoadShowSpecificBranches": [
+        "main"
+    ],
+    "exportedAt": 1699856737243
+}
